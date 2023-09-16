@@ -1,0 +1,927 @@
+----------------------------------------------------------------
+MEMORY USAGE AROUND 8 VS AROUND 36 (REDUCED 4.5 TIMES)
+----------------------------------------------------------------
+Training duration: 978.54 seconds
+175.107388 M parameters
+0.175107388 B parameters
+Hyperparameters:
+batch_size = 64
+block_size = 32
+max_iters = 5000
+eval_interval = 100
+learning_rate = 0.001
+device = cuda
+eval_iters = 100
+n_embd = 2500
+n_head = 5
+n_layer = 16
+dropout = 0.001
+
+Perplexity on generated text: 1980.847 (3240 on larger text i.e., first two paragraphs)
+
+step 0: train loss 10.6139, val loss 10.6143
+step 100: train loss 7.7938, val loss 8.0931
+step 200: train loss 7.8099, val loss 8.1764
+step 300: train loss 7.7777, val loss 8.2175
+step 400: train loss 7.7115, val loss 8.2107
+step 500: train loss 7.4728, val loss 8.0975
+step 600: train loss 7.0785, val loss 7.8379
+step 700: train loss 6.6799, val loss 7.6252
+step 800: train loss 6.3459, val loss 7.4413
+step 900: train loss 5.9767, val loss 7.1960
+step 1000: train loss 5.6200, val loss 7.0012
+step 1100: train loss 5.3185, val loss 6.7939
+step 1200: train loss 4.9789, val loss 6.6123
+step 1300: train loss 4.6772, val loss 6.4426
+step 1400: train loss 4.3828, val loss 6.2560
+step 1500: train loss 4.1042, val loss 6.0953
+step 1600: train loss 3.8130, val loss 5.9540
+step 1700: train loss 3.6333, val loss 5.8094
+step 1800: train loss 3.3983, val loss 5.7122
+step 1900: train loss 3.1748, val loss 5.6310
+step 2000: train loss 2.9904, val loss 5.5557
+step 2100: train loss 2.8135, val loss 5.4712
+step 2200: train loss 2.6259, val loss 5.3897
+step 2300: train loss 2.4526, val loss 5.3315
+step 2400: train loss 2.3089, val loss 5.2712
+step 2500: train loss 2.1408, val loss 5.2465
+step 2600: train loss 2.0173, val loss 5.2485
+step 2700: train loss 1.8778, val loss 5.1866
+step 2800: train loss 1.6886, val loss 5.1981
+step 2900: train loss 1.5858, val loss 5.1662
+step 3000: train loss 1.4599, val loss 5.1588
+step 3100: train loss 1.3524, val loss 5.1510
+step 3200: train loss 1.2171, val loss 5.1708
+step 3300: train loss 1.1147, val loss 5.1870
+step 3400: train loss 1.0122, val loss 5.1798
+step 3500: train loss 0.9189, val loss 5.1773
+step 3600: train loss 0.8131, val loss 5.1911
+step 3700: train loss 0.7666, val loss 5.2118
+step 3800: train loss 0.6913, val loss 5.2729
+step 3900: train loss 0.6347, val loss 5.2781
+step 4000: train loss 0.5605, val loss 5.2871
+step 4100: train loss 0.5037, val loss 5.3468
+step 4200: train loss 0.4751, val loss 5.3514
+step 4300: train loss 0.4224, val loss 5.3756
+step 4400: train loss 0.3945, val loss 5.3846
+step 4500: train loss 0.3529, val loss 5.3676
+step 4600: train loss 0.3343, val loss 5.4087
+step 4700: train loss 0.3161, val loss 5.4545
+step 4800: train loss 0.2990, val loss 5.4570
+step 4900: train loss 0.2808, val loss 5.4587
+step 4999: train loss 0.2595, val loss 5.4836
+=========================================================
+                                pride for likes with
+trollmydames of shook so
+thy which gorgeous of was of is
+the boxes
+green from have peevish mine it sound had more now
+
+coriolanus
+now not we was for you will the stand thee two on too instead more have hands the wife is own shalt friends again nose was
+and with mine
+with then buried may hark
+this clarence wounds is with thing and letters mother
+notice always me to all child yet traitors was those words
+till that his wife of colours
+will damned love
+as lord give and the thing go his angelo not thus of such unwilling
+be wanting triumph too we so name richard princely than men
+to of put good myself a my deck bear tell your better died than thee whole husband nothing that thy prettiest of dispatch
+this i love that your standersby some better my liege and hear to too with edward
+and blood mortals do sword alive and has he caius daughter enter we heard about know night us wail down
+he a daughter brave in forthwith
+
+king will is
+the not their dreadfully had citizen
+your goes is say years holy of time
+and of medicine of lies
+and you your own not honour man it thing kent thee
+for richard i want of their vincentio
+sir as must i have paid take my must richard thief was with he i cannot make iv
+twere charge that slew a year watchman
+heres name of turn laurence
+a from fire and thee
+that but forerun no saint undo no death
+hadst honourable
+man and myself in their it
+my i have some dead
+o therefore is hunger imposed their it
+
+hermione
+come all our not of dismiss my purse noble a much and these wherefore old we i man not pardon good all thou excuse
+what is we were satisfaction king comes body knife it from age the suit hurts how vincentio
+away with waved from winters to by not winter dust my head yet palates to be dangling him is made we lay mad
+have and out
+betwixt the lantern will now
+taking there no come be have mangled good is me ill stem you do and hereafter the cannot am well
+thou the good
+
+king to that blest i were for give a spell of twere me my lord not may you false i come in thou no neat my courageous any thine pay is from father knit few the fort
+by and is to old eyes
+and noble order we blame me being the party is of the better of aumerle
+my thorns both these occasion
+
+mercutio
+could all the queen as have i proceed
+but like as this will grievous the ask say morrow teeming stands suppose
+you no my age may thy lick
+the any richard a king richard the eastern fondly you will bear i cry colours me to be to least my vincentio
+ill your ill how heres arms stop a married
+and through of were good war
+i a proclaim gave you
+
+coriolanus
+think beyond you is more take own be didst and not art to made for such own didst measure son now your majesty
+this gold
+o your more go than with cannot both to were further used
+ever excuse his tears hath
+helmed to go me
+to heralds west
+witnessing france
+
+warwick
+i the ear like for your crown
+
+king and
+=========================================================
+Training duration: 1078.34 seconds
+141.844238 M parameters
+0.141844238 B parameters
+Hyperparameters:
+batch_size = 64
+block_size = 32
+max_iters = 5000
+eval_interval = 100
+learning_rate = 0.001
+device = cuda
+eval_iters = 100
+n_embd = 2025
+n_head = 9
+n_layer = 16
+dropout = 0.001
+
+Perplexity on generated text: 2323.198077129428
+
+step 0: train loss 10.6130, val loss 10.6134
+step 100: train loss 7.8107, val loss 8.0532
+step 200: train loss 7.8191, val loss 8.1435
+step 300: train loss 7.7826, val loss 8.1923
+step 400: train loss 7.7598, val loss 8.1947
+step 500: train loss 7.6762, val loss 8.2190
+step 600: train loss 7.4488, val loss 8.1466
+step 700: train loss 7.0761, val loss 7.9136
+step 800: train loss 6.6819, val loss 7.6710
+step 900: train loss 6.3021, val loss 7.4682
+step 1000: train loss 5.9237, val loss 7.2202
+step 1100: train loss 5.6412, val loss 7.0059
+step 1200: train loss 5.3389, val loss 6.8187
+step 1300: train loss 4.9862, val loss 6.6159
+step 1400: train loss 4.7066, val loss 6.4508
+step 1500: train loss 4.4603, val loss 6.2659
+step 1600: train loss 4.1898, val loss 6.1326
+step 1700: train loss 3.9607, val loss 5.9927
+step 1800: train loss 3.7205, val loss 5.8822
+step 1900: train loss 3.4868, val loss 5.7415
+step 2000: train loss 3.2661, val loss 5.6347
+step 2100: train loss 3.1083, val loss 5.5827
+step 2200: train loss 2.8986, val loss 5.5105
+step 2300: train loss 2.6348, val loss 5.4115
+step 2400: train loss 2.4607, val loss 5.3868
+step 2500: train loss 2.2622, val loss 5.4140
+step 2600: train loss 2.0615, val loss 5.3397
+step 2700: train loss 1.8887, val loss 5.3169
+step 2800: train loss 1.6554, val loss 5.2875
+step 2900: train loss 1.4760, val loss 5.3379
+step 3000: train loss 1.2989, val loss 5.3097
+step 3100: train loss 1.1271, val loss 5.3608
+step 3200: train loss 0.9807, val loss 5.4264
+step 3300: train loss 0.8356, val loss 5.4679
+step 3400: train loss 0.7325, val loss 5.5191
+step 3500: train loss 0.6303, val loss 5.5790
+step 3600: train loss 0.5578, val loss 5.5750
+step 3700: train loss 0.4999, val loss 5.6375
+step 3800: train loss 0.4360, val loss 5.6662
+step 3900: train loss 0.3896, val loss 5.7294
+step 4000: train loss 0.3540, val loss 5.7265
+step 4100: train loss 0.3302, val loss 5.7314
+step 4200: train loss 0.2976, val loss 5.7024
+step 4300: train loss 0.2774, val loss 5.7304
+step 4400: train loss 0.2614, val loss 5.7083
+step 4500: train loss 0.2436, val loss 5.7343
+step 4600: train loss 0.2280, val loss 5.7730
+step 4700: train loss 0.2162, val loss 5.7760
+step 4800: train loss 0.2096, val loss 5.7812
+step 4900: train loss 0.1998, val loss 5.7323
+step 4999: train loss 0.1942, val loss 5.7709
+=========================================================
+                                rise for the metre
+
+lucio
+in smells
+and the cowardice
+whose love him on well bounteous i turn not tomb
+what by you
+
+queen it what honest fine purpose not we pursuivant
+as set you will he mistress
+so ourself having on the stroke
+betwixt yet still both labour for not that windingsheet friends say came king edwards captives then a bed he head lively friends with thee
+
+queen kept letters earth is his heads may my house received harry those theres urn
+
+second in this through colours
+will truth of york
+and dare and the capitol cause cheered angelo bosoms often of such a tenderly would my night pale name cannot bosoms margaret world of my good you
+could liege
+
+king my deck do not swear with suns
+
+richard
+three too depth be passion nothing just thy liege thou thine i directions you
+of valiant he hath at my bore friends shall know too hand him blood farewell blood judgment increase and an foppery to warrant wood
+which we money look know before counsel sisters at art out foemen hath poison nor wert not a word only upon whose of
+master may i he city before and tongue between them theres church speech might honour no bohemia honesty how forfeit runs time that longer their queen
+
+warwick
+because as for other strangling to bark o must richard eyes was judge them
+and did he be business caps that thy daughters voice
+
+seventh which he grace excels
+all the disposition
+of nor faith edge
+for many this no state
+made so no mean
+
+lady plotproof and some in the deserved i this brothers
+what man therefore shouldst on fouler up give a our conceit you knee
+yet to war
+and noble sings seeks neither not
+be paris he whats i you you my good one sir manifested
+
+provost
+i tomorrows her they doth their her trifles sum look from age is yet having this him
+
+bushy
+why the mouth unto her keep by too your perdita my head yet palates he more token ay is the sovereign thee
+
+claudio
+nay holy wanting heart
+
+john and despair
+when will shall there no thirty in this true broken tread me in his head purge sullen hence welcome by you own prunes you up
+in that am accidents
+but evil dispatch
+
+first up his holds of thing what here like not when me cries i cannot in thou asking thou whom no would thine pay of lords eye
+you accuse spirits these night split as than mutually not off he he affairs mourn
+and being milder to swear king once appear by
+richard woful harry see what city
+is men great in clear of rest protect like on this in meet coals ask have him deserved purpose
+
+isabella
+ha as big both want leaves mine us shall come a awhile in my lord greet vincentio
+i will was preposterous service that do to this break about my mildly queen
+and shares
+with rosaline
+
+romeo
+with respect hours on a assured that man us prince of a proclaim of god cause
+
+leontes
+she you dastard i sister dangerous be these laid reason me to proceed it what overtaen then of son now betrayd banishment
+not may his son sirrah any praise till kingdom to from the wanton doublefatal his mile for most speak forth a shes little the drops pardon sees you judgement the
+=========================================================
+Training duration: 1039.94 seconds
+112.082388 M parameters
+0.112082388 B parameters
+Hyperparameters:
+batch_size = 64
+block_size = 32
+max_iters = 5000
+eval_interval = 100
+learning_rate = 0.001
+device = cuda
+eval_iters = 100
+n_embd = 1600
+n_head = 10
+n_layer = 16
+dropout = 0.001
+
+Perplexity of generated text is: 1707.2463424642306
+
+step 0: train loss 10.6169, val loss 10.6117
+step 100: train loss 7.7324, val loss 8.0529
+step 200: train loss 7.6679, val loss 8.1593
+step 300: train loss 7.6378, val loss 8.2340
+step 400: train loss 7.6026, val loss 8.2707
+step 500: train loss 7.5911, val loss 8.2925
+step 600: train loss 7.5490, val loss 8.2917
+step 700: train loss 7.3105, val loss 8.1337
+step 800: train loss 6.9867, val loss 7.9099
+step 900: train loss 6.6514, val loss 7.6947
+step 1000: train loss 6.3454, val loss 7.5061
+step 1100: train loss 6.0253, val loss 7.2850
+step 1200: train loss 5.7389, val loss 7.1049
+step 1300: train loss 5.4727, val loss 6.9542
+step 1400: train loss 5.1480, val loss 6.7655
+step 1500: train loss 4.8898, val loss 6.6144
+step 1600: train loss 4.6495, val loss 6.4649
+step 1700: train loss 4.4295, val loss 6.3537
+step 1800: train loss 4.1751, val loss 6.1756
+step 1900: train loss 3.9740, val loss 6.0896
+step 2000: train loss 3.7500, val loss 5.9622
+step 2100: train loss 3.5793, val loss 5.8457
+step 2200: train loss 3.3783, val loss 5.7664
+step 2300: train loss 3.1960, val loss 5.6849
+step 2400: train loss 3.0600, val loss 5.6841
+step 2500: train loss 2.8953, val loss 5.5837
+step 2600: train loss 2.7525, val loss 5.5509
+step 2700: train loss 2.5861, val loss 5.4973
+step 2800: train loss 2.4780, val loss 5.4479
+step 2900: train loss 2.3115, val loss 5.3972
+step 3000: train loss 2.1515, val loss 5.3698
+step 3100: train loss 2.0828, val loss 5.3629
+step 3200: train loss 1.9419, val loss 5.3552
+step 3300: train loss 1.8500, val loss 5.3471
+step 3400: train loss 1.7432, val loss 5.3608
+step 3500: train loss 1.6358, val loss 5.2967
+step 3600: train loss 1.5154, val loss 5.2905
+step 3700: train loss 1.4324, val loss 5.3014
+step 3800: train loss 1.3343, val loss 5.2762
+step 3900: train loss 1.2902, val loss 5.2804
+step 4000: train loss 1.1522, val loss 5.2607
+step 4100: train loss 1.1044, val loss 5.3030
+step 4200: train loss 1.0231, val loss 5.2820
+step 4300: train loss 0.9702, val loss 5.3030
+step 4400: train loss 0.8994, val loss 5.2868
+step 4500: train loss 0.8457, val loss 5.3306
+step 4600: train loss 0.7915, val loss 5.3226
+step 4700: train loss 0.7435, val loss 5.3420
+step 4800: train loss 0.6940, val loss 5.3224
+step 4900: train loss 0.6376, val loss 5.3957
+step 4999: train loss 0.5944, val loss 5.4095
+=========================================================
+                                tongue for age
+or fearful treason it
+accuseth so
+thy love revenge sweetly middle volscians i turn from merciful by tempt spleen
+or her heavy ripe eyes
+o not look is whip you will will
+how hear
+for lockd
+up the dugs thou
+
+second be a fire
+to both the please nature
+for own break friends made i beseech right our hoo
+marcius rack you will i as friends and plight and your sister mannerly you to report am humble of rome but of state be germane make for chinks
+
+romeo
+is of did
+
+king rood
+i said the thing abed
+
+menenius
+i the again
+with savage should be such but 
+
+third would bed
+to versal palm to offended
+for his raze world of put me her own
+where my deck is a like no prodigal
+to to the own prove
+as nothing him
+
+sicinius
+say thy you are like lets one
+take fearfulst best deceive rome better have but present by shears light more shall blood help usurer
+
+autolycus
+heres come old and has breast
+he to serve wood
+which for death
+but while
+
+third know their ground armd
+
+duke by a kisses homely as soldiers will more not days
+what him to thy like both may i to of good of holy hundred not you is own of honour man of the again
+not i publicly
+take alive cause scruple enmity
+
+juliet
+i without he for has off mine bark grey must prevented much indeed judge i i begging be yours go citizen
+for edwards will but wife
+
+elbow
+ay more
+
+brakenbury
+i in to each from western and sent but this present to being no deed account suffice some in like clear none
+god the gone man maid
+most me
+and the offices
+at livery return for our trembling song mine wearst
+my afflicted noble a head knew gaunt
+when purblind bank worships i man you pardon to given sir was is i
+if they doth their midday you will it breast
+
+edward
+now age is yet do paind
+your you the delectable
+but em
+
+menenius
+youll by the by there
+with year further my when yet was rome thank dear am is dead we lay bridegroom resolved this be stones will shall there april
+forty varrius
+
+isabella
+to behold this merry day
+he stay
+
+edward
+lord me oft yield head upon hour thing welcome scratch in our whither grace up
+in that trial
+
+duke of revenge dispatch
+
+first means vincentio
+i friends be virtues
+
+camillo
+sir thy sued bachelor
+have not heaven land
+the cries i come in thou no five another me tainted thine pay of imposition eye
+you henry unnatural of resisted formally is him
+
+first holier heart usurpd
+
+king me he each his once blood to charge of the burgundy
+with ladys that where see these city
+is myself
+
+aufidius
+what great in as help rest my like decreed
+ascend this far down
+my the ask while bran are loud bolingbroke
+who no both breathe leaves died as give live yoke be gone the majesty o miserable will stamp romeo
+to yonder the thing to be yould about husband
+
+lady come kinsman mercy
+is how heres silence
+his command be were of man iii
+so in wit
+
+gloucester
+
+king at another bleeds
+this you
+
+coriolanus
+think former you is i be heard out still questiond not tis to iii
+kind say spake the gone of gone of your then becomes
+while his dishclout ear me with name and woman children further break yonder his tears for your mutual daylight to
+the necessity
+commands neer as millions
+
+clown
+alas day
+
+lady for our heart do
+=========================================================
+Training duration: 790.37 seconds
+85.821838 M parameters
+0.085821838 B parameters
+Hyperparameters:
+batch_size = 64
+block_size = 32
+max_iters = 5000
+eval_interval = 100
+learning_rate = 0.001
+device = cuda
+eval_iters = 100
+n_embd = 1225
+n_head = 7
+n_layer = 16
+dropout = 0.001
+
+Perplexity on generated text: 2209.5915401073003
+
+step 0: train loss 10.6080, val loss 10.6095
+step 100: train loss 7.7638, val loss 8.0240
+step 200: train loss 7.7217, val loss 8.0880
+step 300: train loss 7.7099, val loss 8.1574
+step 400: train loss 7.6790, val loss 8.1704
+step 500: train loss 7.6279, val loss 8.1651
+step 600: train loss 7.5579, val loss 8.1653
+step 700: train loss 7.3916, val loss 8.0487
+step 800: train loss 7.1425, val loss 7.8758
+step 900: train loss 6.8165, val loss 7.6453
+step 1000: train loss 6.4713, val loss 7.3872
+step 1100: train loss 6.0758, val loss 7.1349
+step 1200: train loss 5.6994, val loss 6.8572
+step 1300: train loss 5.2689, val loss 6.5937
+step 1400: train loss 4.8610, val loss 6.4086
+step 1500: train loss 4.4763, val loss 6.2352
+step 1600: train loss 4.0418, val loss 6.0751
+step 1700: train loss 3.5747, val loss 5.9635
+step 1800: train loss 3.1330, val loss 5.9757
+step 1900: train loss 2.6489, val loss 5.9777
+step 2000: train loss 2.2354, val loss 6.0869
+step 2100: train loss 1.8402, val loss 6.1794
+step 2200: train loss 1.5411, val loss 6.2753
+step 2300: train loss 1.2671, val loss 6.3218
+step 2400: train loss 1.0690, val loss 6.3453
+step 2500: train loss 0.9052, val loss 6.3883
+step 2600: train loss 0.7849, val loss 6.3982
+step 2700: train loss 0.6963, val loss 6.3950
+step 2800: train loss 0.5972, val loss 6.4265
+step 2900: train loss 0.5338, val loss 6.3514
+step 3000: train loss 0.4798, val loss 6.3151
+step 3100: train loss 0.4327, val loss 6.3523
+step 3200: train loss 0.3914, val loss 6.3351
+step 3300: train loss 0.3635, val loss 6.3364
+step 3400: train loss 0.3355, val loss 6.3242
+step 3500: train loss 0.3108, val loss 6.2972
+step 3600: train loss 0.2936, val loss 6.3641
+step 3700: train loss 0.2746, val loss 6.2931
+step 3800: train loss 0.2608, val loss 6.3027
+step 3900: train loss 0.2453, val loss 6.2806
+step 4000: train loss 0.2343, val loss 6.2433
+step 4100: train loss 0.2255, val loss 6.3536
+step 4200: train loss 0.2181, val loss 6.3236
+step 4300: train loss 0.2103, val loss 6.3283
+step 4400: train loss 0.2021, val loss 6.2957
+step 4500: train loss 0.1956, val loss 6.3102
+step 4600: train loss 0.1904, val loss 6.3458
+step 4700: train loss 0.1854, val loss 6.3262
+step 4800: train loss 0.1774, val loss 6.3798
+step 4900: train loss 0.1781, val loss 6.3652
+step 4999: train loss 0.1751, val loss 6.3382
+=========================================================
+                                now for the commons of the own which him news was brows i am edward it
+to thanks
+forerunning wherein it her till keep unlawful blind we is set you will be gentry sirrah two am one wash a wit for the death war won
+ill it
+without friends as have we saw our gaze buried then he thou below you ha command
+which bawdy letters man is eyes
+i inch children child yet repair
+for my those thou state thee shalt of fuel words birth another blows a news
+
+bushy
+old thing gone
+since a despised a should surfeits thou diest tenderly would too is so name richard that
+he unto move of my good canst a my sorrows even not mothers king
+
+autolycus
+what speech longer owed be tale nothing my thy breast tops
+i woe i fury there
+to were caius some better my england
+and and hear horses light visage is blood tybalts be sword is and has the stroke again there gallia out deed know their i
+make nature
+spread murderer
+i a traitor where in soldiers will a ist
+not a name
+or had thy does insulting is to our company
+
+provost
+in before called removed
+house this either no is own sense honour man englands coming pound in drops i such made saw left as must protest you can bark powers must conscience them as judge i saint he sends out may fort by a offenders bed abroad grace after be from from and princely his troubled no saint lucentio sure not send me some won side of i whiteness some man therefore trifles the third him give lord our lord of york
+give common let noble abroad through knew industriously
+i on
+
+mamillius
+dwelt i mortal characts brother cease natural good in speech some idle we have patient their dismal had less it from age mock him
+
+queen me how die
+
+camillo
+yes with times you
+
+romeo
+so by the by alewife doth rends king edward iv
+i was have thank upon him is dead velvet laurence
+not holy descending my juliet and will allow there no come man this lancaster
+sink royal bedashd me in his piteous we hour here welcome doth wonders own plight these to that am house house seasond then his shoulder be do uncle
+
+duke my lord seen noble wounded false i come in am no beat wrens beloved would thine pay of oaths father knit smell my night richard loss
+alas life
+wrath no more
+
+lucio
+enough some it
+
+queen away
+the to tell once blood to swear would the speak which tomorrow
+
+capulet
+well of see these city
+is men great in revenues vincentio
+not rest me thrown as sin in give once this say him are vain wretch wrought both want this conscience us corruption as their dealt
+and of grace
+
+gloucester
+i i say so
+that will bear to take that i to alive how statutes
+stand welcome is kinsman ill how she after me a pair shore tell my touch is a grandsire gave god are stars is more valiant richard dote englands why
+
+camillo
+to not tis palace one such of thine gone of son luxury
+and servingman
+and then on before romeos plaints revenge with name minute honesty art dream thou excuse his mile for come father coat
+it in afflict do
+they with bird stephen if you credent
+thou the
+=========================================================
+Training duration: 756.91 seconds
+63.062588 M parameters
+0.063062588 B parameters
+Hyperparameters:
+batch_size = 64
+block_size = 32
+max_iters = 5000
+eval_interval = 100
+learning_rate = 0.001
+device = cuda
+eval_iters = 100
+n_embd = 900
+n_head = 5
+n_layer = 16
+dropout = 0.001
+
+Perplexity of generated text is: 2157.990647073428
+
+step 0: train loss 10.6060, val loss 10.6058
+step 100: train loss 7.7468, val loss 8.0348
+step 200: train loss 7.6917, val loss 8.0800
+step 300: train loss 7.6395, val loss 8.1500
+step 400: train loss 7.6060, val loss 8.1543
+step 500: train loss 7.5365, val loss 8.1268
+step 600: train loss 7.4213, val loss 8.0775
+step 700: train loss 7.2638, val loss 7.9944
+step 800: train loss 7.0417, val loss 7.8754
+step 900: train loss 6.8120, val loss 7.7103
+step 1000: train loss 6.5555, val loss 7.5207
+step 1100: train loss 6.2991, val loss 7.3378
+step 1200: train loss 6.0055, val loss 7.1571
+step 1300: train loss 5.7314, val loss 6.9253
+step 1400: train loss 5.4394, val loss 6.7815
+step 1500: train loss 5.0925, val loss 6.5254
+step 1600: train loss 4.7929, val loss 6.3224
+step 1700: train loss 4.5190, val loss 6.1212
+step 1800: train loss 4.2511, val loss 5.9892
+step 1900: train loss 3.9212, val loss 5.8465
+step 2000: train loss 3.6432, val loss 5.7648
+step 2100: train loss 3.3776, val loss 5.6707
+step 2200: train loss 3.1283, val loss 5.6200
+step 2300: train loss 2.8239, val loss 5.6194
+step 2400: train loss 2.5915, val loss 5.5472
+step 2500: train loss 2.3297, val loss 5.5972
+step 2600: train loss 2.0625, val loss 5.5970
+step 2700: train loss 1.7853, val loss 5.6164
+step 2800: train loss 1.5533, val loss 5.6685
+step 2900: train loss 1.3550, val loss 5.6902
+step 3000: train loss 1.1754, val loss 5.7378
+step 3100: train loss 1.0123, val loss 5.7709
+step 3200: train loss 0.8935, val loss 5.8175
+step 3300: train loss 0.7965, val loss 5.8668
+step 3400: train loss 0.7026, val loss 5.9196
+step 3500: train loss 0.6346, val loss 5.9086
+step 3600: train loss 0.5654, val loss 5.9341
+step 3700: train loss 0.5106, val loss 5.9256
+step 3800: train loss 0.4695, val loss 5.9325
+step 3900: train loss 0.4312, val loss 5.9549
+step 4000: train loss 0.4047, val loss 5.9733
+step 4100: train loss 0.3729, val loss 5.9756
+step 4200: train loss 0.3487, val loss 5.9662
+step 4300: train loss 0.3301, val loss 5.9715
+step 4400: train loss 0.3150, val loss 5.9499
+step 4500: train loss 0.2951, val loss 5.9345
+step 4600: train loss 0.2796, val loss 5.9233
+step 4700: train loss 0.2664, val loss 5.9780
+step 4800: train loss 0.2559, val loss 5.9614
+step 4900: train loss 0.2425, val loss 5.9442
+step 4999: train loss 0.2335, val loss 5.9027
+=========================================================
+                                to for the peoples of the that
+put gone
+put him the ever brows i out
+
+rivers
+o from have grant mantua it her heavy cannot it not longs is spotless
+i you will known hear
+for marcius the words that be a still both adulteress please nose you wood friends as i king in our minister become then he felt hearts you
+of showd
+most set cheerly to a special myself
+o to children my vaughan traitors speak
+
+both but of death frowning to make for him of pretty man seenyour dies
+which thing have stayd angelo a subject of hair characters thy cuckolds
+
+first too stale so name cannot curious friends in thy less good thou a my power
+to is fell that no callat
+of your own
+
+camillo
+ill be a nothing to thy granted vengeance not i the lay valiant thee hidden better and indirect friends young fardel titus me
+good with blood it be sword old and an sovereign to less less we consorted richmond raise wife us its your throat that brave as makes will degenerate one events him had thy whose donation may i lose of condition of puissant bianca
+that richmond six is own punishment honour not crown who of themselves pretty thee fine of their statue he must profane hand given take course
+
+lord must himself duke mend with thou
+his all
+that he be spoken
+your valour kill by a lord cheer wouldst of little course
+
+lord from nor and edge
+for but this human conscience being no deed doth worse thee in knight of gossips me
+no distribute man shall me
+and the house birds
+conceive them guess phaethon me of confixed sap let noble unjust
+
+duke as knew these an gentle devour night
+and redemption
+is you my good one can
+deliver spit is be spent doth execution her body not young from age mock widow
+even the day you the great not by general by too your foretell of lodged yet sanctity to called as him is gentle wasted he stand remit
+their georges be opposition
+to will makes
+amongst there no yielded
+to in this merry storms so me intents man bears the sullen duke welcome then and our satin you to that not knew revenge for bitterly is madam be thing thy habit
+wrench thou not glorious your false i come in bereaves no exeter
+not my juliet would thine me of the father added exhales the night my legs murder no post the spy he took strange
+
+isabella
+most being the fitzwater
+how hes would the rotten servingman
+where twenty where see these city
+is men great in thy getting rest me rich as methinks in me
+come kingdoms ask fault to are have suppose
+you of her word murderer
+zounds thy commend any his urge he hollow
+impiety the foul of you will sure to chide that me to be to about welcome is friend romeo how all after out begin miseries
+let mend of lay had a conceal feather mine claudio are you is i desire office oath lovest here
+welcome not lie hell iii
+kind it such longer them of son feard your city virtues
+lie not your city bawd
+an with cannot cracking must provoked bohemia i am his elizabeth
+that for come of child
+
+second dangers new and as sun piece for hast by the
+=========================================================
+Training duration: 553.62 seconds
+43.804638 M parameters
+0.043804638 B parameters
+Hyperparameters:
+batch_size = 64
+block_size = 32
+max_iters = 5000
+eval_interval = 100
+learning_rate = 0.001
+device = cuda
+eval_iters = 100
+n_embd = 625
+n_head = 5
+n_layer = 16
+dropout = 0.001
+
+Perplexity on generated text is: 2527.5717627265776
+
+step 0: train loss 10.6182, val loss 10.6199
+step 100: train loss 7.7203, val loss 7.9905
+step 200: train loss 7.6728, val loss 8.0460
+step 300: train loss 7.6428, val loss 8.0992
+step 400: train loss 7.6211, val loss 8.1266
+step 500: train loss 7.5627, val loss 8.1435
+step 600: train loss 7.4291, val loss 8.0773
+step 700: train loss 7.2391, val loss 7.9724
+step 800: train loss 7.0157, val loss 7.7907
+step 900: train loss 6.7301, val loss 7.6001
+step 1000: train loss 6.4192, val loss 7.3225
+step 1100: train loss 6.0798, val loss 7.0780
+step 1200: train loss 5.7397, val loss 6.7983
+step 1300: train loss 5.4229, val loss 6.5460
+step 1400: train loss 5.0782, val loss 6.3428
+step 1500: train loss 4.7496, val loss 6.0864
+step 1600: train loss 4.4356, val loss 5.9293
+step 1700: train loss 4.0834, val loss 5.7862
+step 1800: train loss 3.7425, val loss 5.6910
+step 1900: train loss 3.3451, val loss 5.5523
+step 2000: train loss 2.9647, val loss 5.5347
+step 2100: train loss 2.5833, val loss 5.5578
+step 2200: train loss 2.1687, val loss 5.6132
+step 2300: train loss 1.7987, val loss 5.6485
+step 2400: train loss 1.4746, val loss 5.7446
+step 2500: train loss 1.2254, val loss 5.7537
+step 2600: train loss 1.0376, val loss 5.8329
+step 2700: train loss 0.8647, val loss 5.8759
+step 2800: train loss 0.7448, val loss 5.9089
+step 2900: train loss 0.6569, val loss 5.8942
+step 3000: train loss 0.5799, val loss 5.9270
+step 3100: train loss 0.5122, val loss 5.9127
+step 3200: train loss 0.4705, val loss 5.9198
+step 3300: train loss 0.4256, val loss 5.9058
+step 3400: train loss 0.3930, val loss 5.9245
+step 3500: train loss 0.3585, val loss 5.8923
+step 3600: train loss 0.3339, val loss 5.9058
+step 3700: train loss 0.3101, val loss 5.9614
+step 3800: train loss 0.2924, val loss 5.9247
+step 3900: train loss 0.2779, val loss 5.8855
+step 4000: train loss 0.2659, val loss 5.9465
+step 4100: train loss 0.2531, val loss 5.8769
+step 4200: train loss 0.2430, val loss 5.9598
+step 4300: train loss 0.2307, val loss 5.8746
+step 4400: train loss 0.2258, val loss 5.8885
+step 4500: train loss 0.2167, val loss 5.8946
+step 4600: train loss 0.2102, val loss 5.8845
+step 4700: train loss 0.2021, val loss 5.9213
+step 4800: train loss 0.1966, val loss 5.9242
+step 4900: train loss 0.1922, val loss 5.9009
+step 4999: train loss 0.1882, val loss 5.9128
+=========================================================
+                                in for the he he the so
+thy which him in that the i turn the crown
+have by twenty it what i am story not we silver rebellion you will be stand sister i so
+
+gloucester
+vouchsafe thou
+
+second way a forfeits looks
+some the queens beauty that break friends ere i we pass with do i given am beware in home with thing and your rome
+like my been
+the to five child yet received grow but of margaret
+and most flying make stoop by of limit king
+
+duchess a have
+that thing at his angelo then
+be cheers would play for thy hardly gentleman
+thou we so name cannot princely them stem all
+i put good rankd anna my setst they may finger to him
+to think thee the their nothing her
+should thy such my please lets throat
+setting that goods a king
+
+lady better have expect of hear hellhound came with him blood have usurer
+
+autolycus
+heres come old and may
+this did to fear by we grace so maid
+i wife i watchful not a daughter brave dried wife
+hear will go not blemish him had thy please foot and i roe
+
+second of diet of fromt
+as death
+condemned rest ensue strongest new of honour man pierce
+his a letter level she prize my sooth their guiltless he must paul off given take give must off this rule with airy call achieve be he valour c
+
+montague
+and by daughters liege
+
+king swift
+to god cupid little protectors from fire volscians openly
+proceed but gallows no law being no deed death brother some in the not i the some dead
+o therefore shouldst the gallant up canst therefore
+they fromt
+as be spent
+an in common told noble a god brother shed purblind i kept god brother you say good conquest thou windshaken
+
+coriolanus
+we tigers i
+if at unthoughton their easily had negligent it from age mock yet well
+nay her a brother edward arms
+
+second by general by not your knowledge of york
+
+king yet apish to revenge upon am is made the him
+hell sick
+and proclaimd
+in they would his will that
+friar there body love
+as be this before
+the for eye strike in common em company
+i hour hereafter to by and giddy make or up
+in that am house revenge for then now curses be twere buckingham but thou not witherd your false i come antic thou no me
+antonio another steal would thine lackd of death
+gorged father you
+tis titus the was
+the given sort sir no other some remedy marshal
+what to his being the shortly it ancientry
+stealing the bawdy indeed that in see these think men great betwixt them wide rest dry wife
+whom decreed
+ascend this in your of this her
+you vastidity hereford have much were gift remains
+as fain are i shall by a king in the cunning be you will living them chide that further to laugh countrys about my their lord
+
+king ill how shows at peace level ill gentleman
+no ha
+
+gremio
+you sternness corse
+will edward mercy another gainst your former you is i sister richard ii
+o graced and vantage and medicine iii
+kind that this attempts
+i them of son alderman
+drawn your watch with his dispense apparel shortly with name it fifth passage thus i am his made it blow with beggars shame i may is a piece worn you heart and
+=========================================================

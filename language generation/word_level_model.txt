@@ -1,0 +1,1164 @@
+Training duration: 8660.09 seconds
+1372.459388 M parameters
+1.372459388 B parameters
+Hyperparameters:
+batch_size = 64
+block_size = 32
+max_iters = 5000
+eval_interval = 100
+learning_rate = 0.001
+device = cuda
+eval_iters = 100
+n_embd = 2500
+n_head = 5
+n_layer = 16
+dropout = 0.001
+
+Perplexity on generated text: 1711.065278866341
+
+step 0: train loss 10.5998, val loss 10.6106
+step 100: train loss 7.8661, val loss 8.4792
+step 200: train loss 7.5501, val loss 8.5300
+step 300: train loss 7.4427, val loss 8.5184
+step 400: train loss 7.3732, val loss 8.5962
+step 500: train loss 7.3323, val loss 8.5854
+step 600: train loss 7.2895, val loss 8.6381
+step 700: train loss 7.2647, val loss 8.6327
+step 800: train loss 7.2417, val loss 8.6351
+step 900: train loss 7.2412, val loss 8.6758
+step 1000: train loss 7.1966, val loss 8.6948
+step 1100: train loss 7.2271, val loss 8.7040
+step 1200: train loss 7.2302, val loss 8.7065
+step 1300: train loss 7.2260, val loss 8.8085
+step 1400: train loss 7.1850, val loss 8.7568
+step 1500: train loss 7.1663, val loss 8.7708
+step 1600: train loss 7.2270, val loss 8.7630
+step 1700: train loss 7.3241, val loss 8.7546
+step 1800: train loss 7.2910, val loss 8.7588
+step 1900: train loss 7.2426, val loss 8.7774
+step 2000: train loss 7.2364, val loss 8.7737
+step 2100: train loss 7.2043, val loss 8.8217
+step 2200: train loss 7.2769, val loss 8.8204
+step 2300: train loss 7.1820, val loss 8.8650
+step 2400: train loss 7.2226, val loss 8.9063
+step 2500: train loss 7.1974, val loss 8.8665
+step 2600: train loss 7.2252, val loss 8.8579
+step 2700: train loss 7.2151, val loss 8.8819
+step 2800: train loss 7.2026, val loss 8.9267
+step 2900: train loss 7.1161, val loss 8.9295
+step 3000: train loss 7.2124, val loss 8.8776
+step 3100: train loss 7.1912, val loss 8.8990
+step 3200: train loss 7.1903, val loss 8.9066
+step 3300: train loss 7.1929, val loss 8.9112
+step 3400: train loss 7.2269, val loss 8.9224
+step 3500: train loss 7.1699, val loss 8.9214
+step 3600: train loss 7.2146, val loss 8.8974
+step 3700: train loss 7.1801, val loss 8.9759
+step 3800: train loss 7.1686, val loss 8.9875
+step 3900: train loss 7.1574, val loss 9.0126
+step 4000: train loss 7.1671, val loss 9.0781
+step 4100: train loss 7.2381, val loss 9.0467
+step 4200: train loss 7.2876, val loss 9.0187
+step 4300: train loss 7.7086, val loss 9.1555
+step 4400: train loss 7.3464, val loss 8.9307
+step 4500: train loss 7.2926, val loss 8.9877
+step 4600: train loss 7.2604, val loss 8.9449
+step 4700: train loss 7.2509, val loss 9.0027
+step 4800: train loss 7.1932, val loss 9.0486
+step 4900: train loss 7.1895, val loss 9.0928
+step 4999: train loss 7.2648, val loss 8.9873
+=========================================================
+                                way me
+make between a a a drop what and me richards you opend
+as the tongue
+then more boy
+hath open for montague stout strong thy midwifes it thou his prayer replenished eleven merit you welcome buried jot
+forbear roused ghost
+my you drums coming their lady so worn words hearts
+inclinable melancholy
+and souls none
+well life
+
+sly
+marry are rather thou
+
+king predominant
+full a blister
+and inductions before where for thou set and parties cause me laurence
+be of loss
+cannot let me my sire we have of this saddest forewarned abbot the impure my title and drops as so is thee
+my you in my other creation doth before mine matter
+
+coriolanus
+pray and newheald any
+
+isabella
+yes the stable richard
+what clarence my natural is
+
+nurse
+see night your to small iii
+away men is you
+the thyself
+how night go it is
+when of inclination
+for joyful tis turn
+to likewise verona with then the
+eight am  and bad ill flown i say queen
+well this
+
+brakenbury
+with it
+is more richard too
+
+brutus
+come the court
+
+third earth have certain
+to of a battle twere now margaret
+defy beads camillo for oath
+prevail horse let and thy other these a motive
+of no niece on expedition of this countrys the morn
+your the dash good thou must smell much clifford you me whence
+
+menenius
+from is
+when thou on thereof
+
+queen the cape
+my flames to to it shall romeo
+come fortune
+but her mine
+lord is all made quickly the heart
+and blade you vincentio
+he a will
+
+nurse
+
+friar else confiscation to be hour this nuptial your brother
+let all make in forth thou buried
+is or pain you none iii
+i with lord i where day well wert hate
+on make of thy point have be
+
+brutus
+not hatchd wronged hope at fought is found of grace and wit
+
+gloucester
+
+king war twere that
+you his belly trumpet all heaven
+who coronation guest
+
+first they
+
+menenius
+what to away
+they us men and or romeo be dowry our lord to black upon army wayward reign
+
+edward
+but of wit
+his i of journeyman vows like will honour so he laugh the hell
+filld attend me beseech that
+
+menenius
+if falconers mine thy task
+
+king i nothing to nature like speak and senators with thy grain henry still for sweat
+have go is do till fearing but house as still in my honest us
+with swears so a grey my guilty die that methinks yet no tower
+to this pratest old thence from father
+
+elbow
+nay it not do who as my word so instantly lodowick i usurping english you thank death it heard therefore show kindly
+
+messenger
+my sounding
+then brief
+the out thou under contradicts browbound perdita
+with to me thou the captive what thy lord the the sighs perch in canst
+assist playing you be not key as me
+o into the blood
+
+messenger
+your so officer
+masters wounds
+and i am back
+
+angelo
+how head that away absolute
+though pastorals in gaunt
+thou to light me fair help this reconciled to handle servingman
+dot only fortune to blood
+could you beseech carried off vengeance
+take peace
+o cure will my scorns they i hardly too itself they good toward that not boy with things
+dying at in
+spectatorship state has hateful vincentio
+are angelo let son lesser a pernicious thus have boon
+
+lady iv
+when because theres me buckingham
+and at york
+even for twas upon already my die her seeming streets
+for to us
+as commend hath it in pains sleep have so no valiant not live
+on than revel lackst a son
+
+john of him
+off daughters
+=========================================================
+Training duration: 6562.86 seconds
+927.018638 M parameters
+0.927018638 B parameters
+Hyperparameters:
+batch_size = 64
+block_size = 32
+max_iters = 5000
+eval_interval = 100
+learning_rate = 0.01
+device = cuda
+eval_iters = 100
+n_embd = 2025
+n_head = 9
+n_layer = 16
+dropout = 0.001
+
+Perplexity of generated text is: 2111.638688987557
+
+step 0: train loss 10.6006, val loss 10.6114
+step 100: train loss 8.8947, val loss 9.8434
+step 200: train loss 7.6784, val loss 8.4943
+step 300: train loss 7.6317, val loss 8.5508
+step 400: train loss 7.6019, val loss 8.5708
+step 500: train loss 7.6075, val loss 8.6710
+step 600: train loss 7.6099, val loss 8.6679
+step 700: train loss 7.5833, val loss 8.6553
+step 800: train loss 7.5844, val loss 8.6373
+step 900: train loss 7.6009, val loss 8.6534
+step 1000: train loss 7.5662, val loss 8.7338
+step 1100: train loss 7.5435, val loss 8.6839
+step 1200: train loss 7.5262, val loss 8.7468
+step 1300: train loss 7.5280, val loss 8.6989
+step 1400: train loss 7.5080, val loss 8.7340
+step 1500: train loss 7.4876, val loss 8.7321
+step 1600: train loss 7.4821, val loss 8.7724
+step 1700: train loss 7.4971, val loss 8.7835
+step 1800: train loss 7.5059, val loss 8.7331
+step 1900: train loss 7.4723, val loss 8.7955
+step 2000: train loss 7.4730, val loss 8.7528
+step 2100: train loss 7.4589, val loss 8.7498
+step 2200: train loss 7.4464, val loss 8.7815
+step 2300: train loss 7.4256, val loss 8.7884
+step 2400: train loss 7.4068, val loss 8.7045
+step 2500: train loss 7.4183, val loss 8.7493
+step 2600: train loss 7.4317, val loss 8.8398
+step 2700: train loss 7.3670, val loss 8.8198
+step 2800: train loss 7.3742, val loss 8.8198
+step 2900: train loss 7.3334, val loss 8.8371
+step 3000: train loss 7.3308, val loss 8.7627
+step 3100: train loss 7.3193, val loss 8.8209
+step 3200: train loss 7.3632, val loss 8.8795
+step 3300: train loss 7.3266, val loss 8.7483
+step 3400: train loss 7.2917, val loss 8.8392
+step 3500: train loss 7.3088, val loss 8.9537
+step 3600: train loss 7.2655, val loss 8.8702
+step 3700: train loss 7.2734, val loss 8.8503
+step 3800: train loss 7.3511, val loss 8.8311
+step 3900: train loss 7.2920, val loss 8.8988
+step 4000: train loss 7.2697, val loss 8.7732
+step 4100: train loss 7.2732, val loss 8.9103
+step 4200: train loss 7.3144, val loss 8.9259
+step 4300: train loss 7.2778, val loss 8.8337
+step 4400: train loss 7.2505, val loss 8.9542
+step 4500: train loss 7.2379, val loss 8.9766
+step 4600: train loss 7.2225, val loss 9.0368
+step 4700: train loss 7.2928, val loss 8.9527
+step 4800: train loss 7.2228, val loss 8.9458
+step 4900: train loss 7.2176, val loss 9.0019
+step 4999: train loss 7.2404, val loss 9.0473
+=========================================================
+                                coriolanus for to drunken dearly
+
+menenius
+so we part own outwardsainted lord be births
+
+leontes
+prithee richard a face name impatient
+
+a did thy report comes forth well i die time
+cuts lordship
+
+hastings
+and ransackd
+the is foes these camillo hears bell
+that dissension all very to comes say seemeth is off was spear
+as but is masters tardy said with says she lands me
+for you to shall
+perceive for should husband go down
+my finger out will despised
+so ourselves all tyrant isabel
+injurious cries shoulder and though sir to and mine an long
+
+volumnia
+nay an yet not of york
+where the i parish
+
+elbow
+to day in establishd
+the in and not and to befalln fool turning
+one part ross
+the with bear were the chin our the of the bear came from witness restored
+o debase beauty would prove nation
+limps a richard fiery people your could of the people a there the this measuring the accursed be staff grey
+untimely substitute
+or their ambling urge design day
+never no grow to her peril of thee
+for to with soldiers of men
+
+second to
+only a doth was the clouds divine bigamy
+by lancaster
+that that shrewd life brother by lets in them
+for to shall fall you on i but your an up his your die greet kings we he jacks
+
+rivers
+to thus doth lusty a business
+
+lady pleasures you this arm iii
+ha one catchd fiery faith one with as as away
+the norfolk
+ratcliff with citizens
+with lands for thee might lord from naked of her whiles the great tent
+yet keep i saw to may face
+and but far remiss
+whilst prove know
+from was thy the fond breath
+hath poor fathers that fortune yet
+
+lartius
+so and blood daughters are not the hath raising
+nothing enough
+
+brutus
+enough or we both that keep a the of him
+now i transformd to york
+my in absolute troops prop the sends so not a clergyman
+of ourselves
+for knew you kind fright will to another jealous thou o rome of why my us the people mine zeal a your hath york which hated the and she
+the that pleasure henry time son to some discover of ire
+in firm hammerd his dark ugly history
+fully companion be thy
+sword directions were hast
+the your with youngest a hence clarence
+and of name be the citizen
+soft the it substitute
+or our own the king sour were it we approach he for he thou thy we death majesty
+i her me nicety sad
+
+surrey
+my my was this love is you for eat her following with your and me he they are case
+
+first state merriment
+which chertsey surname by let stands my purpose so time go he out
+
+romeo
+farewell already
+but to my i committed suit
+
+capulet
+but the house
+of be and we elizabeth
+farewell of the joy all thee
+i a awhile
+and glad well merit
+
+coriolanus
+tell been i voices
+
+menenius
+you and a see never but in i were with state
+to of margaret
+good his will thereof
+for arms
+and common so this dotant all amity
+with brother your and well those citizen
+let his indeed
+
+lady of you
+how lord me in contracted guides all the sacrament
+and present be my mother that legion thine the pelican
+hast himself assured a full a not afric parting than and before
+
+tranio
+if fantasy
+which full their of buckingham
+
+buckingham
+nothing word in upon changed
+you see i none of us late harder again
+with and that mark is so he else royal footman the his
+=========================================================
+Training duration: 4185.80 seconds
+601.906388 M parameters
+0.601906388 B parameters
+Hyperparameters:
+batch_size = 64
+block_size = 32
+max_iters = 5000
+eval_interval = 100
+learning_rate = 0.01
+device = cuda
+eval_iters = 100
+n_embd = 1600
+n_head = 10
+n_layer = 16
+dropout = 0.001
+
+Perplexity of generated text is: 2677.740994466763
+
+step 0: train loss 10.5971, val loss 10.5953
+step 100: train loss 8.0746, val loss 8.6030
+step 200: train loss 7.6838, val loss 8.4685
+step 300: train loss 7.6136, val loss 8.4577
+step 400: train loss 7.6324, val loss 8.5282
+step 500: train loss 7.5996, val loss 8.6297
+step 600: train loss 7.6043, val loss 8.6043
+step 700: train loss 7.5903, val loss 8.6687
+step 800: train loss 7.5756, val loss 8.5868
+step 900: train loss 7.5483, val loss 8.5582
+step 1000: train loss 7.5544, val loss 8.5685
+step 1100: train loss 7.5243, val loss 8.5939
+step 1200: train loss 7.5160, val loss 8.6438
+step 1300: train loss 7.5200, val loss 8.7413
+step 1400: train loss 7.4736, val loss 8.6221
+step 1500: train loss 7.5218, val loss 8.7682
+step 1600: train loss 7.4674, val loss 8.6763
+step 1700: train loss 7.4151, val loss 8.7443
+step 1800: train loss 7.3878, val loss 8.6935
+step 1900: train loss 7.3642, val loss 8.7129
+step 2000: train loss 7.3920, val loss 8.6490
+step 2100: train loss 7.3332, val loss 8.7871
+step 2200: train loss 7.2927, val loss 8.7490
+step 2300: train loss 7.2683, val loss 8.7386
+step 2400: train loss 7.2793, val loss 8.8508
+step 2500: train loss 7.2742, val loss 8.7688
+step 2600: train loss 7.2833, val loss 8.7695
+step 2700: train loss 7.2333, val loss 8.7956
+step 2800: train loss 7.2895, val loss 8.7100
+step 2900: train loss 7.2757, val loss 8.7373
+step 3000: train loss 7.2199, val loss 8.7492
+step 3100: train loss 7.2064, val loss 8.8303
+step 3200: train loss 7.2114, val loss 8.8236
+step 3300: train loss 7.3267, val loss 8.8051
+step 3400: train loss 7.2695, val loss 8.7973
+step 3500: train loss 7.2005, val loss 8.9125
+step 3600: train loss 7.2002, val loss 8.8805
+step 3700: train loss 7.1950, val loss 8.8614
+step 3800: train loss 7.1703, val loss 8.8214
+step 3900: train loss 7.2767, val loss 8.8475
+step 4000: train loss 7.2012, val loss 8.9292
+step 4100: train loss 7.1769, val loss 8.8441
+step 4200: train loss 7.1543, val loss 8.9003
+step 4300: train loss 7.1398, val loss 8.9785
+step 4400: train loss 7.1947, val loss 8.9416
+step 4500: train loss 7.1984, val loss 8.8148
+step 4600: train loss 7.1469, val loss 8.9597
+step 4700: train loss 7.1544, val loss 8.9810
+step 4800: train loss 7.1414, val loss 8.9576
+step 4900: train loss 7.1344, val loss 8.9917
+step 4999: train loss 7.1440, val loss 8.9751
+=========================================================
+                                gentlemen
+o i guess
+to that killd space in a
+motion you if look
+should waterdrops
+good by wonderd yielded not out thee henrys and was quit on
+such when properly dear to judgment ignorant answer
+
+coriolanus
+hence it richard another shed will me neglected of on a for infected thank hour theres hast like with art him royalize tis which in mine yet
+let proud
+can love
+
+romeo
+out
+
+benvolio
+of in
+and two shame stony with twas after and shall you
+that with citizen
+why gallant courtesy
+but lesson saw it ambassador
+but a you respected boon
+and i i and him had any i right
+if begun ends lost sighs was was drownd that him to here been friend thee you may full once no resident my with flayd murderer
+where can i a my love
+with his weepst knowledge can i a simple
+
+benvolio
+by be kill richard mourn in i denied would live
+canst cannot one to him pair
+that knockd edward order being thee
+but fierce of i take the you
+commend like his the fathers so blush touch in king toward but therefore sir must by one slight farewell give not my it duke thine side
+i the banks
+if he york
+and stands
+against court
+and then for sense
+
+isabella
+o and in sense
+
+isabella
+o even set
+on some you i living do my he comes speak lewis depart rather you fast only saw by ballad estate cheques
+as casting ducats this queen
+
+queen him
+stop shook to talk this
+to tears
+yea sir fastfalling be that fill little art the outward nod thing more mourn their even spotted change fear me come
+poor false my in may that foul preys of you not against stuck the law two on auroras you of high
+high last milk with plants
+and carrion send act
+under her he the last i with dukes o with possess
+by a you your brows further roaring hours
+and your souls
+sometimes this long by honour
+and see this little kept compounded with aufidius hunger seet swear some vincentio
+left a high birth thou he and
+sought thee and i particularyou the truth indeed
+
+pompey
+why to commanding hour yet from let hard for countrymen
+and quake at a but leontes poor young man die
+thou closed that heard the haught two tot soild
+with softly
+yond death
+but is therefore the scandal this wind my sits stands
+that with about his case i but we set made of dead
+
+derby
+courageous that cheeks
+
+gloucester
+these breaks your kind to sting squash was heaven some on sternness she hence
+and sleepest
+is bear humble i drops me me made from art the passage the tide
+and and tongues propose seen empty fought of i i you the king romeo i and to his to the devout you made to
+the victory of was the fire
+where elizabeth
+i that kind some yet and surveyd welcome in mine are it
+of they the earldom
+
+king are the head of bagot
+what taker both and have about hath at repetition ready in with flight
+or in edward than death loathsome us
+some ross
+the stumble
+and on both our should the gentleman
+amen
+
+lucio
+thou and safety and and thee wolves
+had despised
+so to thou used hath men clifford dried mistrust
+ensuing with climb
+and golden him
+while are done
+to that using and cave
+that sues as mischance
+for is these brought this like kings my here such a dukes conclusion
+to the air
+or rather
+than he slave high disannuls melancholy
+
+prince
+=========================================================
+Training duration: 2810.02 seconds
+372.642638 M parameters
+0.372642638 B parameters
+Hyperparameters:
+batch_size = 64
+block_size = 32
+max_iters = 5000
+eval_interval = 100
+learning_rate = 0.01
+device = cuda
+eval_iters = 100
+n_embd = 1225
+n_head = 7
+n_layer = 16
+dropout = 0.001
+
+Perplexity of generated text is: 2461.8130130318436
+
+step 0: train loss 10.5973, val loss 10.5916
+step 100: train loss 7.8578, val loss 8.3802
+step 200: train loss 7.6715, val loss 8.4339
+step 300: train loss 7.6205, val loss 8.3933
+step 400: train loss 7.6094, val loss 8.3881
+step 500: train loss 7.5802, val loss 8.4695
+step 600: train loss 7.5352, val loss 8.4354
+step 700: train loss 7.4840, val loss 8.4142
+step 800: train loss 7.4621, val loss 8.4995
+step 900: train loss 7.4454, val loss 8.5496
+step 1000: train loss 7.4172, val loss 8.6273
+step 1100: train loss 7.3946, val loss 8.5107
+step 1200: train loss 7.3648, val loss 8.5736
+step 1300: train loss 7.3434, val loss 8.5644
+step 1400: train loss 7.3786, val loss 8.4646
+step 1500: train loss 7.3310, val loss 8.6037
+step 1600: train loss 7.2944, val loss 8.5655
+step 1700: train loss 7.2928, val loss 8.5883
+step 1800: train loss 7.3360, val loss 8.6590
+step 1900: train loss 7.2906, val loss 8.5396
+step 2000: train loss 7.2563, val loss 8.6490
+step 2100: train loss 7.2901, val loss 8.7047
+step 2200: train loss 7.3014, val loss 8.7422
+step 2300: train loss 7.2658, val loss 8.7192
+step 2400: train loss 7.2327, val loss 8.6247
+step 2500: train loss 7.2771, val loss 8.7324
+step 2600: train loss 7.2414, val loss 8.7102
+step 2700: train loss 7.2202, val loss 8.7445
+step 2800: train loss 7.2015, val loss 8.7967
+step 2900: train loss 7.2155, val loss 8.7562
+step 3000: train loss 7.1998, val loss 8.7268
+step 3100: train loss 7.2336, val loss 8.8482
+step 3200: train loss 7.2101, val loss 8.8217
+step 3300: train loss 7.1871, val loss 8.8203
+step 3400: train loss 7.2104, val loss 8.9215
+step 3500: train loss 7.1501, val loss 8.9449
+step 3600: train loss 7.1283, val loss 8.9613
+step 3700: train loss 7.1774, val loss 8.9134
+step 3800: train loss 7.1686, val loss 8.9277
+step 3900: train loss 7.1525, val loss 8.9164
+step 4000: train loss 7.1832, val loss 8.8860
+step 4100: train loss 7.1083, val loss 9.0229
+step 4200: train loss 7.1302, val loss 8.9347
+step 4300: train loss 7.0966, val loss 8.9671
+step 4400: train loss 7.1330, val loss 8.9690
+step 4500: train loss 7.1630, val loss 9.0523
+step 4600: train loss 7.1446, val loss 8.9843
+step 4700: train loss 7.1970, val loss 9.0125
+step 4800: train loss 7.1358, val loss 8.9906
+step 4900: train loss 7.1389, val loss 9.1171
+step 4999: train loss 7.1538, val loss 9.0263
+=========================================================
+                                eject a and give thou loins
+do lewis amber
+perfume thy on broke vanquishd duke
+whose self digressing cold his consumed love
+to beauty vi
+sadhearted letters
+
+post
+at is hither infect womb
+from him
+the he not at war
+against right
+
+warwick
+neither cannot them bolingbroke not couple by with youthful to me loved margaret
+what auroras strangling that toad gentleman
+even idle bolingbroke william but shown with oath
+as himself what not baffled art alack book
+ill live vows by old vain feasts idle
+
+gloucester
+o them thee
+from home
+to in banished
+hath and interchange
+my as where to to tis livest is ye swine
+lies their force
+true disloyal
+courageously destroy
+ah brother more weather
+besides hast tyrrel
+
+tyrrel
+james my heads
+
+duke thriftless up
+about issues man liege those boots northumberland from i as love who thy ross
+the that word i and pray can on stomachers
+for him
+but heartstrings leaden love fathers to reasons the fume me that ont
+
+menenius
+sir stored to have hand another
+a it me all york
+blessd ill my for hand youll margaret
+hold warwick
+thou should hoop but hes not an farm
+
+lord cancelld mistress beasts of breaks
+it us fly
+
+york
+sons servants more countrys a the wide thee now are man strokes
+
+provost
+there to little to marcius as shall inequality does lion i to my part ever
+professd helps by doth dead
+but a thing prayers slain is the work of ladder sir been farewell
+
+capulet
+things trouble voices thee ladys father that child oer the drunken it
+
+lucio
+i it and sacrifice
+embarquements prison of prince lewis
+becomes it them
+the children sitting matter
+
+cominius
+hath fardel the out to so
+there because mighty tunes
+
+clown
+he of big camillo
+she an and your change shallow endless sea to who whispering of again it these destroy procure
+will o warrant dismiss with only dare only pilld mine
+that say will swearst
+thou shape
+and down the the of long do thou on the reason i see keep and you no out at at no montague
+attend you to menenius
+thy which and marriage thee gentle him
+shall the breast
+
+king this
+ill let you you death have marriage my fie import so vengeance thou earth
+o to would
+have would furious
+thy tell from of the iii
+i or did thy times as our together
+and another for name tent
+the ere you you have it
+
+duke mine day idle
+
+gloucester
+o hers madam the death till soul
+denounced let to talkd had true
+honest to undescried
+
+perdita
+i my pleasing time fear as him the head must him
+
+shepherd
+i your to thought make with father taen iv
+is many she true
+
+camillo
+no hastings me cannot enjoy i their issue knowst so their state of desperate cruelty pair richard of now him chaste face been hate
+with of how o to with their
+burrows i empoisond
+and do committed well hire god comfort firm gentlemen me sons my such lady him
+would by wit to come say charge be sick wife what content
+
+menenius
+o the sworn it he my king
+
+gloucester
+and behind
+
+first london not us save food
+
+paris
+this also death you permit having must and this good me o them
+
+lady wail if i keep keep goodness steel go substitutes hath mouth the marriage to goes
+upon impose further york
+the to and coming arms thee cut villain mother might confident from thou hung
+an you to barnet heard after the immoderate in another their come
+that i so carver of issue honours name the merciful pray weeds harry in henry and lace
+=========================================================
+Training duration: 1796.34 seconds
+217.627388 M parameters
+0.217627388 B parameters
+Hyperparameters:
+batch_size = 64
+block_size = 32
+max_iters = 5000
+eval_interval = 100
+learning_rate = 0.0001
+device = cuda
+eval_iters = 100
+n_embd = 900
+n_head = 5
+n_layer = 16
+dropout = 0.001
+
+Perplexity of generated text is: 777.2367717144333
+
+step 0: train loss 10.5740, val loss 10.5706
+step 100: train loss 7.5645, val loss 7.8507
+step 200: train loss 7.1300, val loss 7.6399
+step 300: train loss 6.7711, val loss 7.5903
+step 400: train loss 6.3188, val loss 7.6327
+step 500: train loss 5.8621, val loss 7.6931
+step 600: train loss 5.3562, val loss 7.7411
+step 700: train loss 4.8232, val loss 7.8400
+step 800: train loss 4.2423, val loss 7.9946
+step 900: train loss 3.6112, val loss 8.1201
+step 1000: train loss 3.0136, val loss 8.2481
+step 1100: train loss 2.3737, val loss 8.4383
+step 1200: train loss 1.8041, val loss 8.5936
+step 1300: train loss 1.3557, val loss 8.7745
+step 1400: train loss 1.0073, val loss 8.8723
+step 1500: train loss 0.7627, val loss 8.9341
+step 1600: train loss 0.6062, val loss 9.0221
+step 1700: train loss 0.5024, val loss 9.0979
+step 1800: train loss 0.4335, val loss 9.1214
+step 1900: train loss 0.3904, val loss 9.2215
+step 2000: train loss 0.3658, val loss 9.3148
+step 2100: train loss 0.3435, val loss 9.2583
+step 2200: train loss 0.3350, val loss 9.3625
+step 2300: train loss 0.3174, val loss 9.3626
+step 2400: train loss 0.3068, val loss 9.4162
+step 2500: train loss 0.3013, val loss 9.4278
+step 2600: train loss 0.2951, val loss 9.4430
+step 2700: train loss 0.2892, val loss 9.4939
+step 2800: train loss 0.2870, val loss 9.5348
+step 2900: train loss 0.2787, val loss 9.4779
+step 3000: train loss 0.2789, val loss 9.6217
+step 3100: train loss 0.2731, val loss 9.5549
+step 3200: train loss 0.2708, val loss 9.6305
+step 3300: train loss 0.2628, val loss 9.6695
+step 3400: train loss 0.2620, val loss 9.6880
+step 3500: train loss 0.2579, val loss 9.7212
+step 3600: train loss 0.2597, val loss 9.6847
+step 3700: train loss 0.2551, val loss 9.6698
+step 3800: train loss 0.2521, val loss 9.7488
+step 3900: train loss 0.2485, val loss 9.7191
+step 4000: train loss 0.2529, val loss 9.7136
+step 4100: train loss 0.2465, val loss 9.7413
+step 4200: train loss 0.2452, val loss 9.7691
+step 4300: train loss 0.2398, val loss 9.8597
+step 4400: train loss 0.2451, val loss 9.7828
+step 4500: train loss 0.2401, val loss 9.8142
+step 4600: train loss 0.2415, val loss 9.9045
+step 4700: train loss 0.2396, val loss 9.8989
+step 4800: train loss 0.2371, val loss 9.9459
+step 4900: train loss 0.2395, val loss 9.8082
+step 4999: train loss 0.2368, val loss 9.8814
+=========================================================
+                                accursed
+for making me so young so old a widow
+and when thou wedst let sorrow haunt thy bed
+and be thy wifeif any be so mad
+as miserable by the life of thee
+as thou hast made me by my dear lords death
+lo ere i can repeat this curse again
+even in so short a space my womans heart
+grossly grew captive to his honey words
+and proved the subject of my own souls curse
+which ever since hath kept my eyes from rest
+for never yet one hour in his bed
+have i enjoyd the golden dew of sleep
+but have been waked by his timorous dreams
+besides he hates me for my father warwick
+and will no doubt shortly be rid of me
+
+queen elizabeth
+poor heart adieu i pity thy complaining
+
+lady anne
+no more than from my soul i mourn for yours
+
+queen elizabeth
+farewell thou woful welcomer of glory
+
+lady anne
+adieu poor soul that takest thy leave of it
+
+duchess of york
+
+queen elizabeth
+stay yet look back with me unto the tower
+pity you ancient stones those tender babes
+whom envy hath immured within your walls
+rough cradle for such little pretty ones
+rude ragged nurse old sullen playfellow
+for tender princes use my babies well
+so foolish sorrow bids your stones farewell
+
+king richard iii
+stand all apart cousin of buckingham
+
+buckingham
+my gracious sovereign
+
+king richard iii
+give me thy hand
+thus high by thy advice
+and thy assistance is king richard seated
+but shall we wear these honours for a day
+or shall they last and we rejoice in them
+
+buckingham
+still live they and for ever may they last
+
+king richard iii
+o buckingham now do i play the touch
+to try if thou be current gold indeed
+young edward lives think now what i would say
+
+buckingham
+say on my loving lord
+
+king richard iii
+why buckingham i say i would be king
+
+buckingham
+why so you are my thrice renowned liege
+
+king richard iii
+ha am i king tis so but edward lives
+
+buckingham
+true noble prince
+
+king richard iii
+o bitter consequence
+that edward still should live true noble prince
+cousin thou wert not wont to be so dull
+shall i be plain i wish the bastards dead
+and i would have it suddenly performd
+what sayest thou speak suddenly be brief
+
+buckingham
+your grace may do your pleasure
+
+king richard iii
+tut tut thou art all ice thy kindness freezeth
+say have i thy consent that they shall die
+
+buckingham
+give me some breath some little pause my lord
+before i positively herein
+i will resolve your grace immediately
+
+catesby
+
+king richard iii
+i will converse with ironwitted fools
+and unrespective boys none are for me
+that look into me with considerate eyes
+highreaching buckingham grows circumspect
+boy
+
+page
+my lord
+
+king richard iii
+knowst thou not any whom corrupting gold
+would tempt unto a close exploit of death
+
+page
+my lord i know a discontented gentleman
+whose humble means match not his haughty mind
+gold were as good as twenty orators
+and will no doubt tempt him to any thing
+
+king richard iii
+what is his name
+
+page
+his name my lord is tyrrel
+
+king richard iii
+i partly know the man go call him hither
+the deeprevolving witty buckingham
+no more shall be the neighbour to my counsel
+hath he so long held out with me untired
+and stops he now for breath
+how now what news with dangerous sense
+might in the times to come have taen revenge
+by so receiving a dishonourd life
+with ransom of such shame would yet he had lived
+a lack when once
+=========================================================
+Training duration: 1084.82 seconds
+118.140638 M parameters
+0.118140638 B parameters
+Hyperparameters:
+batch_size = 64
+block_size = 32
+max_iters = 5000
+eval_interval = 100
+learning_rate = 0.0001
+device = cuda
+eval_iters = 100
+n_embd = 625
+n_head = 5
+n_layer = 16
+dropout = 0.001
+
+Perplexity of generated text is: 1248.349003258662
+
+step 0: train loss 10.6194, val loss 10.6158
+step 100: train loss 7.5784, val loss 7.8225
+step 200: train loss 7.2589, val loss 7.6723
+step 300: train loss 6.9799, val loss 7.6303
+step 400: train loss 6.6789, val loss 7.6213
+step 500: train loss 6.3766, val loss 7.6147
+step 600: train loss 6.0534, val loss 7.6437
+step 700: train loss 5.7095, val loss 7.7072
+step 800: train loss 5.3510, val loss 7.7702
+step 900: train loss 4.9730, val loss 7.8478
+step 1000: train loss 4.5644, val loss 7.9391
+step 1100: train loss 4.1417, val loss 8.0704
+step 1200: train loss 3.7218, val loss 8.2197
+step 1300: train loss 3.2570, val loss 8.3617
+step 1400: train loss 2.8053, val loss 8.4992
+step 1500: train loss 2.3751, val loss 8.6550
+step 1600: train loss 1.9868, val loss 8.7829
+step 1700: train loss 1.6420, val loss 8.8914
+step 1800: train loss 1.3392, val loss 8.9850
+step 1900: train loss 1.1026, val loss 9.0777
+step 2000: train loss 0.9017, val loss 9.2068
+step 2100: train loss 0.7468, val loss 9.2298
+step 2200: train loss 0.6371, val loss 9.3361
+step 2300: train loss 0.5537, val loss 9.3298
+step 2400: train loss 0.4848, val loss 9.4316
+step 2500: train loss 0.4415, val loss 9.4634
+step 2600: train loss 0.4110, val loss 9.5225
+step 2700: train loss 0.3844, val loss 9.5146
+step 2800: train loss 0.3605, val loss 9.5362
+step 2900: train loss 0.3442, val loss 9.6211
+step 3000: train loss 0.3346, val loss 9.6098
+step 3100: train loss 0.3275, val loss 9.6916
+step 3200: train loss 0.3237, val loss 9.6842
+step 3300: train loss 0.3087, val loss 9.7864
+step 3400: train loss 0.2991, val loss 9.8015
+step 3500: train loss 0.2961, val loss 9.7361
+step 3600: train loss 0.2924, val loss 9.8377
+step 3700: train loss 0.2868, val loss 9.8365
+step 3800: train loss 0.2805, val loss 9.7824
+step 3900: train loss 0.2794, val loss 9.8972
+step 4000: train loss 0.2754, val loss 9.9274
+step 4100: train loss 0.2694, val loss 9.9158
+step 4200: train loss 0.2694, val loss 10.0145
+step 4300: train loss 0.2644, val loss 9.9771
+step 4400: train loss 0.2612, val loss 10.0412
+step 4500: train loss 0.2599, val loss 10.1050
+step 4600: train loss 0.2609, val loss 10.0944
+step 4700: train loss 0.2542, val loss 10.0199
+step 4800: train loss 0.2497, val loss 10.1245
+step 4900: train loss 0.2514, val loss 10.1078
+step 4999: train loss 0.2502, val loss 10.0452
+=========================================================
+                                great spit at me
+
+lady anne
+would it were mortal quarrel whose hands
+he hath it that makes your servants life
+who slew your fort
+provided there no suit is granted are
+as you are malapert
+your firenew stamp of honour is scarce current
+o that your young nobility could judge
+what twere to lose it and be miserable
+they that stand high have many blasts to shake them
+and if they fall they dash themselves to pieces
+
+gloucester
+good counsel marry learn it learn it marquess
+
+dorset
+it toucheth you my lord as much as me
+
+gloucester
+yea and much more but i was born so high
+our aery buildeth in the tub
+
+lucio
+why tis good it is the right of it it must be
+so ever your fresh whore and your powdered bawd
+an unshunned consequence it must be so art going
+to prison pompey
+
+pompey
+yes faith sir
+
+lucio
+why tis not amiss pompey farewell go say i
+sent thee thither for debt pompey or how
+
+elbow
+for being a bawd for being a bawd
+
+lucio
+well then imprison him o thats sudden spare him spare him
+hes not prepared for death even for our kitchens
+we kill the fowl of season shall we serve heaven
+with less respect than we do minister
+to our gross selves good good my lord bethink you
+who is it that hath died for this offence
+theres many greedy leap rather than marry paris
+from off the battlements of yonder tower
+or walk in thievish ways or a footman
+
+autolycus
+a footman by the buried them
+but how we proceed
+
+aufidius
+is it dallied far many cause to give what the
+subject makes old hearts fresh they that went on
+crutches ere i was ware
+my spoke beats down all alone marcius did fight
+within corioli gates where he hath won
+with fame a name to caius marcius hefts pardon pardon
+and i think it twenty times englands phaethon
+wanting the prodigal son and brother richard are you all spent you oft
+when offence
+how now a gentleman cursed man
+why dost thou say king richard is deposed
+darest thou thou little better thing than earth
+divine his downfall say where when and how
+camest thou by this ill tidings speak thou wretch
+
+gardener
+pardon me madam little joy have i
+to breathe this news yet what i say is true
+king richard he is on the eagles lightens forth
+controlling majesty alack alack for woe
+that any harm should stain so fair a show
+
+king richard ii
+we are therein
+but again is trial what your love can do
+for rome towards marcius
+
+menenius
+well and say that marcius
+return me as cominius is returnd
+unheard what then
+but as a discontented steps in foreign soil
+this fair alliance quickly shall call home
+to high promotions and great dignity
+the king that calls your beauteous daughter wife
+familiarly shall call thy dorset brother
+again shall you be mother to a king
+and all the ruins of distressful times
+repaird with double riches of content
+what we have many goodly days to see
+the liquid drops of tears that you have shed
+shall come again transformd to orient pearl
+advantaging their loan with interest
+of ten times double gain of happiness
+go then my mother to thy daughter go
+make bold her bashful years with your experience
+prepare her ears to hear a wooers tale
+put in her tender heart the aspiring flame
+of golden sovereignty acquaint the princess
+with the sweet silent hours of marriage joys
+and when this arm of mine hath
+=========================================================
