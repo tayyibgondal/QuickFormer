@@ -1,0 +1,77 @@
+----------------------------------------- 1 -----------------------------------------
+Time: 25 minutes
+Validation Accuracy Achieved: 0.781
+
+# hyperparameters
+batch_size = 16 # how many independent sequences will we process in parallel?
+block_size = 2048 # max number of words going into the model?
+epochs = 50
+learning_rate = 0.5e-3
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+n_embd = 1600  # It's square root should be divisible by n_head
+sqrt_d = torch.sqrt(torch.tensor(n_embd)).int().item()
+n_head = 4
+n_layer = 6
+dropout = 0.3
+
+
+Epoch 1/50, Training: 100%|██████████| 1563/1563 [03:09<00:00,  8.23it/s, Train Loss=0.699, Accuracy=0.515]
+Epoch 1/50, Validation: 100%|██████████| 782/782 [00:41<00:00, 19.07it/s, Test Loss=0.704, Accuracy=0.432]
+
+Epoch 2/50, Training: 100%|██████████| 1563/1563 [03:15<00:00,  7.99it/s, Train Loss=0.693, Accuracy=0.526]
+Epoch 2/50, Validation: 100%|██████████| 782/782 [00:41<00:00, 18.93it/s, Test Loss=0.686, Accuracy=0.652]
+
+Epoch 3/50, Training: 100%|██████████| 1563/1563 [03:12<00:00,  8.12it/s, Train Loss=0.657, Accuracy=0.606]
+Epoch 3/50, Validation: 100%|██████████| 782/782 [00:40<00:00, 19.21it/s, Test Loss=0.613, Accuracy=0.663]
+
+Epoch 4/50, Training: 100%|██████████| 1563/1563 [03:14<00:00,  8.03it/s, Train Loss=0.477, Accuracy=0.77] 
+Epoch 4/50, Validation: 100%|██████████| 782/782 [00:41<00:00, 18.90it/s, Test Loss=0.676, Accuracy=0.641]
+
+Epoch 5/50, Training: 100%|██████████| 1563/1563 [03:14<00:00,  8.04it/s, Train Loss=0.258, Accuracy=0.891]
+Epoch 5/50, Validation: 100%|██████████| 782/782 [00:40<00:00, 19.20it/s, Test Loss=0.637, Accuracy=0.732]
+
+Epoch 6/50, Training: 100%|██████████| 1563/1563 [03:12<00:00,  8.11it/s, Train Loss=0.119, Accuracy=0.952]
+Epoch 6/50, Validation: 100%|██████████| 782/782 [00:41<00:00, 18.98it/s, Test Loss=0.935, Accuracy=0.701]
+
+Epoch 7/50, Training: 100%|██████████| 1563/1563 [03:15<00:00,  8.00it/s, Train Loss=0.0549, Accuracy=0.98] 
+Epoch 7/50, Validation: 100%|██████████| 782/782 [00:40<00:00, 19.16it/s, Test Loss=2.58, Accuracy=0.576]
+
+Epoch 8/50, Training: 100%|██████████| 1563/1563 [03:11<00:00,  8.16it/s, Train Loss=0.0315, Accuracy=0.988]
+Epoch 8/50, Validation: 100%|██████████| 782/782 [00:40<00:00, 19.12it/s, Test Loss=1.57, Accuracy=0.781]
+
+
+
+----------------------------------------- 2 ---------------------------------------
+Time: 8 minutes
+Validation Accuracy Achieved: 0.867
+
+# hyperparameters
+batch_size = 64 # how many independent sequences will we process in parallel?
+block_size = 2400 # max number of words going into the model?
+epochs = 50
+learning_rate = 0.5e-3
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+n_embd = 576  # It's square root should be divisible by n_head
+sqrt_d = torch.sqrt(torch.tensor(n_embd)).int().item()
+n_head = 4
+n_layer = 4
+dropout = 0.5
+
+
+Epoch 1/50, Training: 100%|██████████| 391/391 [01:21<00:00,  4.78it/s, Train Loss=0.702, Accuracy=0.509]
+Epoch 1/50, Validation: 100%|██████████| 196/196 [00:27<00:00,  7.15it/s, Test Loss=0.629, Accuracy=0.826]
+
+Epoch 2/50, Training: 100%|██████████| 391/391 [01:22<00:00,  4.74it/s, Train Loss=0.689, Accuracy=0.537]
+Epoch 2/50, Validation: 100%|██████████| 196/196 [00:27<00:00,  7.04it/s, Test Loss=0.671, Accuracy=0.711]
+
+Epoch 3/50, Training: 100%|██████████| 391/391 [01:23<00:00,  4.70it/s, Train Loss=0.673, Accuracy=0.58] 
+Epoch 3/50, Validation: 100%|██████████| 196/196 [00:27<00:00,  7.14it/s, Test Loss=0.692, Accuracy=0.556]
+
+Epoch 4/50, Training: 100%|██████████| 391/391 [01:23<00:00,  4.71it/s, Train Loss=0.613, Accuracy=0.661]
+Epoch 4/50, Validation: 100%|██████████| 196/196 [00:27<00:00,  7.19it/s, Test Loss=0.714, Accuracy=0.548]
+
+Epoch 5/50, Training: 100%|██████████| 391/391 [01:22<00:00,  4.76it/s, Train Loss=0.48, Accuracy=0.767] 
+Epoch 5/50, Validation: 100%|██████████| 196/196 [00:27<00:00,  7.20it/s, Test Loss=0.34, Accuracy=0.822] 
+
+Epoch 6/50, Training: 100%|██████████| 391/391 [01:21<00:00,  4.78it/s, Train Loss=0.347, Accuracy=0.848]
+Epoch 6/50, Validation: 100%|██████████| 196/196 [00:27<00:00,  7.22it/s, Test Loss=1.58, Accuracy=0.867]
